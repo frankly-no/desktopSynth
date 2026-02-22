@@ -1,0 +1,4 @@
+dearpygui>=1.11
+sounddevice>=0.4
+numpy>=1.26
+python-rtmidi>=1.5
